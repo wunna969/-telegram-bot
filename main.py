@@ -9,7 +9,7 @@ from flask import Flask
 
 # ==================== CONFIGURATION ====================
 BOT_TOKEN = "8819406038:AAG25KwQTbx0oBt1OmHGT-U311mdLJQOKjo"      # BotFather မှ ရသော Token ထည့်ပါ
-AGENT_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYWcuYnVmZmFsbzY4OC5jb20vYXBpL2F1dGgvbG9naW4iLCJpYXQiOjE3OTA2Njg0MTYsImV4cCI6MTc5MDY3NTYxNiwibmJmIjoxNzkwNjY4NDE2LCJqdGkiOiJ2Vk5URFdnUzVxOUZKV3dBIiwic3ViIjoiMjUwMjc3MyIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.570skoRhvaVWgWQvPvqmrIPxXjZyFujgxuLLwqJXCxg"  # Buffalo Agent Token (eyJ...) ထည့်ပါ
+AGENT_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYWcuYnVmZmFsbzY4OC5jb20vYXBpL2F1dGgvcmVmcmVzaCIsImlhdCI6MTc5MDY2ODQxNiwiZXhwIjoxNzkwNjc1OTkyLCJuYmYiOjE3OTA2Njg3OTIsImp0aSI6InJ3VGJSSWtOWVFxRmlVMVUiLCJzdWIiOiIyNTAyNzczIiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.3FTjXYj_9vuIllfYeuSweeRKCIO9bpZ8C2zWf--I5bs"  # Buffalo Agent Token (eyJ...) ထည့်ပါ
 NOTIFICATION_CHAT_ID = "8737513988"              # Reminder / Buttons သတိပေးစာ ပို့လိုသော Group/Chat ID
 
 BASE_URL = "https://ag.buffalo688.com/api"
